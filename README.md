@@ -2,7 +2,7 @@
 
 <details><summary>
 
-## Recommended Versions
+## Current Recommended Versions
 </summary>
 
 ***Recommended versions to patch for best compatibility with patches.***
